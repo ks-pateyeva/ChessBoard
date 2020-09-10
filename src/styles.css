@@ -1,0 +1,17 @@
+.board {
+    outline: 1px solid black;
+    width: 320px;
+    margin: 10px;
+}
+
+.line {
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+    width: 320px;
+}
+
+.square {
+    height: 40px;
+    width: 40px;
+}
