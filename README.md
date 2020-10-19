@@ -1,1 +1,1 @@
-ChessBoard
+ChessBoard (js only)
